@@ -1,4 +1,5 @@
-        // Mobile Menu
+       
+       // Mobile Menu
         const menuBtn = document.getElementById('menuBtn');
         const mobileMenu = document.getElementById('mobileMenu');
         const mobileLinks = document.querySelectorAll('.mobile-link');
@@ -82,3 +83,6 @@
             alert('Message sent! I\'ll get back to you soon.');
             contactForm.reset();
         });
+
+        
+        
